@@ -1,0 +1,12 @@
+/ASimpleSubsetValidationRule.java/1.1/Fri Mar 28 11:57:37 2008//
+/AValidationRule.java/1.2/Thu Aug  7 11:21:59 2008//
+/IReference.java/1.1/Fri Mar 28 11:57:37 2008//
+/IReferenceManager.java/1.1/Fri Mar 28 11:57:37 2008//
+/IReferenceType.java/1.1/Fri Mar 28 11:57:37 2008//
+/IResolver.java/1.1/Fri Mar 28 11:57:37 2008//
+/IValidationErrorCallback.java/1.1/Fri Mar 28 11:57:37 2008//
+/IValidationRule.java/1.1/Fri Mar 28 11:57:37 2008//
+/Reference.java/1.1/Fri Mar 28 11:57:37 2008//
+/ReferenceResolvingException.java/1.1/Fri Mar 28 11:57:37 2008//
+/ReferenceType.java/1.1/Fri Mar 28 11:57:37 2008//
+/UnsupportedReferenceTypeException.java/1.1/Fri Mar 28 11:57:37 2008//

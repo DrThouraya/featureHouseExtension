@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="Test.java" kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CIDE_generateAST"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CIDE2_ast"/>
+	<classpathentry kind="lib" path="/home/apel/usr/share/eclipse-3.5/plugins/org.junit4_4.5.0.v20090824/junit.jar"/>
+	<classpathentry kind="lib" path="/home/apel/usr/share/eclipse-3.5/plugins/org.apache.ant_1.7.1.v20090120-1145/lib/ant.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
